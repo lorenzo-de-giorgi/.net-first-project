@@ -132,3 +132,11 @@ C:\Users\Lorenzo\Desktop\.net-first-project\obj\Debug\net9.0\refint\.net-first-p
 C:\Users\Lorenzo\Desktop\.net-first-project\obj\Debug\net9.0\.net-first-project.pdb
 C:\Users\Lorenzo\Desktop\.net-first-project\obj\Debug\net9.0\.net-first-project.genruntimeconfig.cache
 C:\Users\Lorenzo\Desktop\.net-first-project\obj\Debug\net9.0\ref\.net-first-project.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lorenzo\Desktop\.net-first-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

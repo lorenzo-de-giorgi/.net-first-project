@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {}
+    "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {
+    "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
+        "projectUniqueName": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
         "projectName": ".net-first-project",
-        "projectPath": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
+        "projectPath": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
         "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\obj\\",
+        "outputPath": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config"
