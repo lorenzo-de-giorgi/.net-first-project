@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {}
+    "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {
+    "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
+        "projectUniqueName": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
         "projectName": ".net-first-project",
-        "projectPath": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
+        "projectPath": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\.net-first-project.csproj",
         "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lorenzo\\Desktop\\.net-first-project\\obj\\",
+        "outputPath": "c:\\Users\\Lorenzo\\Desktop\\.net-first-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -67,6 +71,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
             }
           },
           "imports": [
